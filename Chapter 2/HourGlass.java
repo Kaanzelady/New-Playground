@@ -1,4 +1,4 @@
-public class Hello {
+public class HourGlass {
     public static final int LINES = 4;
 
     public static void line() {
@@ -51,6 +51,5 @@ public class Hello {
         topHalf();
         bottomHalf();
         line();
-
     }
 }
