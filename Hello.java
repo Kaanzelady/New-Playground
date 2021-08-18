@@ -6,7 +6,7 @@ public class Hello {
     public static void main(String[] args) {
         double answer = sum(10);
         System.out.println(answer);
-
+        
     }
 
 }
