@@ -1,6 +1,8 @@
 public class ThrowingExceptions {
     public static void main(String[] args) {
-        System.out.println(factorial(-5));
+        for (int i = -1; i <= 10; i++) {
+            System.out.println(i + "! = " + factorial(i));
+        }
     }
     //pre: n >= 0
     //post: returns n factorial (n!)

@@ -6,7 +6,7 @@ public class Exercise1 {
     }
     public static double fractionSum(int n) {
         if (n <= 0) {
-            throw new IllegalArgumentException("negative n: " + n);
+            throw new IllegalArgumentException("negative or zero n: " + n);
         }
         double sum = 0.0;
 
