@@ -5,7 +5,8 @@ public class BooleanTest {
         boolean test1 = true;
         boolean test2 = false;
         test1 = test2;
-        System.out.println(test1);
+        System.out.print(test1);
+        System.out.println();
 
         Scanner console = new Scanner(System.in);
         int number = console.nextInt();
