@@ -1,0 +1,343 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Exercise5C5",
+            "request": "launch",
+            "mainClass": "Exercise5C5",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise4C5",
+            "request": "launch",
+            "mainClass": "Exercise4C5",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise3C5",
+            "request": "launch",
+            "mainClass": "Exercise3C5",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise1C5",
+            "request": "launch",
+            "mainClass": "Exercise1C5",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise2C5",
+            "request": "launch",
+            "mainClass": "Exercise2C5",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_2",
+            "request": "launch",
+            "mainClass": "Exercise_2",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BMI",
+            "request": "launch",
+            "mainClass": "BMI",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch BooleanTest",
+            "request": "launch",
+            "mainClass": "BooleanTest",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch BooleanZen",
+            "request": "launch",
+            "mainClass": "BooleanZen",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharacterClassMethods",
+            "request": "launch",
+            "mainClass": "CharacterClassMethods",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch CumulativeSum",
+            "request": "launch",
+            "mainClass": "CumulativeSum",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch DrawBox",
+            "request": "launch",
+            "mainClass": "DrawBox",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch DrawBox2",
+            "request": "launch",
+            "mainClass": "DrawBox2",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExamineInput1",
+            "request": "launch",
+            "mainClass": "ExamineInput1",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExamineInput2",
+            "request": "launch",
+            "mainClass": "ExamineInput2",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise1",
+            "request": "launch",
+            "mainClass": "Exercise1",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise10",
+            "request": "launch",
+            "mainClass": "Exercise10",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise11",
+            "request": "launch",
+            "mainClass": "Exercise11",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise12",
+            "request": "launch",
+            "mainClass": "Exercise12",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14",
+            "request": "launch",
+            "mainClass": "Exercise14",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise15",
+            "request": "launch",
+            "mainClass": "Exercise15",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise16",
+            "request": "launch",
+            "mainClass": "Exercise16",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise17",
+            "request": "launch",
+            "mainClass": "Exercise17",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise1_Test",
+            "request": "launch",
+            "mainClass": "Exercise1_Test",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise2",
+            "request": "launch",
+            "mainClass": "Exercise2",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise3",
+            "request": "launch",
+            "mainClass": "Exercise3",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise4",
+            "request": "launch",
+            "mainClass": "Exercise4",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise5",
+            "request": "launch",
+            "mainClass": "Exercise5",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise6",
+            "request": "launch",
+            "mainClass": "Exercise6",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise7",
+            "request": "launch",
+            "mainClass": "Exercise7",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise8",
+            "request": "launch",
+            "mainClass": "Exercise8",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise8_Test",
+            "request": "launch",
+            "mainClass": "Exercise8_Test",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise9",
+            "request": "launch",
+            "mainClass": "Exercise9",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstWord",
+            "request": "launch",
+            "mainClass": "FirstWord",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstWordTest",
+            "request": "launch",
+            "mainClass": "FirstWordTest",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch HourGlass",
+            "request": "launch",
+            "mainClass": "HourGlass",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxMinLoopExample",
+            "request": "launch",
+            "mainClass": "MaxMinLoopExample",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberGuess",
+            "request": "launch",
+            "mainClass": "NumberGuess",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberGuesses2",
+            "request": "launch",
+            "mainClass": "NumberGuesses2",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pick",
+            "request": "launch",
+            "mainClass": "Pick",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintfExample",
+            "request": "launch",
+            "mainClass": "PrintfExample",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch RollingDice",
+            "request": "launch",
+            "mainClass": "RollingDice",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringObjectExamples",
+            "request": "launch",
+            "mainClass": "StringObjectExamples",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThrowingExceptions",
+            "request": "launch",
+            "mainClass": "ThrowingExceptions",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triangles",
+            "request": "launch",
+            "mainClass": "Triangles",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch WriteRoot",
+            "request": "launch",
+            "mainClass": "WriteRoot",
+            "projectName": "New Playground_1a16ff34"
+        }
+    ]
+}
