@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Exercise7C7",
+            "request": "launch",
+            "mainClass": "Exercise7C7",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise5C7",
+            "request": "launch",
+            "mainClass": "Exercise5C7",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise4C7",
+            "request": "launch",
+            "mainClass": "Exercise4C7",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise3C7",
+            "request": "launch",
+            "mainClass": "Exercise3C7",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise2C7",
+            "request": "launch",
+            "mainClass": "Exercise2C7",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise1C7",
+            "request": "launch",
+            "mainClass": "Exercise1C7",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
             "name": "Launch DoSomething",
             "request": "launch",
             "mainClass": "DoSomething",
