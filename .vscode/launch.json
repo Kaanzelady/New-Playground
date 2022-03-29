@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RectangleMain",
+            "request": "launch",
+            "mainClass": "RectangleMain",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch LineMain",
+            "request": "launch",
+            "mainClass": "LineMain",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch TimeSpanMain",
+            "request": "launch",
+            "mainClass": "TimeSpanMain",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch PointMain",
+            "request": "launch",
+            "mainClass": "PointMain",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fix",
+            "request": "launch",
+            "mainClass": "Fix",
+            "projectName": "New Playground_1a16ff34"
+        },
+        {
+            "type": "java",
             "name": "Launch Exercise7C7",
             "request": "launch",
             "mainClass": "Exercise7C7",
